@@ -1,0 +1,21 @@
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.AssemblyReference.cache
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.cache
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form2.resources
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Interop.WMPLib.dll
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Interop.WMPLib.dll
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.ResolveComReference.cache
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird.exe.manifest
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird.application
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird.exe
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird.pdb
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird.TrustInfo.xml
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird.exe.manifest
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird.application
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird.exe
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird.pdb
+C:\Users\jayye999\Desktop\test vs\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Resources\hello.bat
